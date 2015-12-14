@@ -1,6 +1,5 @@
 * [Head-First-Statistics](README.md)
    * [Chapter1](Chapter1.md)
-   * [Chapter10](Chapter10.md)
    * [Chapter2](Chapter2.md)
    * [Chapter3](Chapter3.md)
    * [Chapter4](Chapter4.md)
@@ -9,3 +8,4 @@
    * [Chapter7](Chapter7.md)
    * [Chapter8](Chapter8.md)
    * [Chapter9](Chapter9.md)
+   * [Chapter10](Chapter10.md)
